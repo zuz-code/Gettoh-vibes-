@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <link rel="stylesheet" href="Gettoh.css">
+
+    <head>
+        <title>Gettoh Vibes</title>
+    </head>
+    <body>
+        <div class="logo">GETTOH<br>VIBES.com</div>
+        <p style="font-size: 35px;
+        margin-left: 17cm;
+        ">a site for entertainment and great pleasure</p>
+        <div class="navbar">
+            <div class="icon"></div>
+
+        <br><br> 
+        <ul>
+            <li><a href="newsongs.html">NEWSONGS</a></li>
+            <li><a href="artists.html">ARTISTS</a></li>
+            <li><a href="Genres.html">GENRES</a></li>
+    </ul>
+    <br><br><br><br><br><br><br>
+    <h1 style="color: rgb(100, 133, 52);
+    float: none;
+    padding: 18px;
+    padding-left: 13cm;
+    margin: auto;
+    background-color: rgb(43, 4, 4);
+    border-radius: 30px;
+    font-size: 35px;">HOME</h1>
+    <div><br>
+        <div style="background-color: rgb(87, 111, 155);
+        border-width: 10px;
+        border-radius: 20px;
+        padding: 25px;
+        ">
+        
+    </div>
+            <footer style="margin-top: 2cm;
+            border-radius: 10px;
+            font-size: 27px;
+            padding-bottom: 1cm;
+            padding-top: 1cm;
+            margin-bottom: 1cm;
+            margin-right: 3cm;">
+            <p style="margin-left: 8cm;
+            padding: 10px;
+            border-radius: 10px;">for more info or upload, contact us on:</p>
+                  <ul style=" background-color: rgb(211, 147, 101);"><li style=" background-color: rgb(211, 147, 101);"><a href="" style=" background-color: rgb(211, 147, 101);"><image src="Facebook_Logo_Primary.png" style="
+                    width: 2cm;
+                    margin: auto;
+                    background-color: rgb(211, 147, 101);"><br><a href="" style="font-size: 20px;
+                    margin-top: 7px;">Achina Zuze Otchuka</a></li><br>
+                    <li style=" background-color: rgb(211, 147, 101);"><a href="" style=" background-color: rgb(211, 147, 101);"><image src="WhatsApp_Symbol_27.svg" style="
+                        width: 2cm;
+                        margin: auto;
+                        margin-top: 27px;
+                        background-color: rgb(211, 147, 101);"><p style="font-size: 20px;
+                        margin-top: 7px;">0884351470</p></a></li>
+                        <li style=" background-color: rgb(211, 147, 101);"><a href="" style=" background-color: rgb(211, 147, 101);"><image src="threads-logo-black.svg" style="
+                            width: 2cm;
+                            background-color: rgb(211, 147, 101);"></li></ul>
+                        <p style="margin-top: 10cm;
+                        margin-left: 10cm;">2024 GETTOH_VIBES.COM</p>         
+            </footer>
+    </body>
+</html>
