@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+    <link rel="stylesheet" href="genres.css">
+    <head>
+        <title>Gettoh Vibes</title>
+    </head>
+    <body>
+        <div class="logo">GETTOH<br>VIBES.com</div>
+        <div class="navbar">
+            <div class="icon"></div>
+            <ul>
+                <li><a href="gettoh.html">HOME</a></li>
+                <li><a href="newsongs.html">NEWSONGS</a></li>
+                <li><a href="artists.html">ARTISTS</a></li>
+        </ul>
+        <br><br><br><br><br><br><br>
+        <h1 style="color: rgb(100, 133, 52);
+        float: none;
+        padding: 18px;
+        padding-left: 13cm;
+        margin: auto;
+        background-color: rgb(43, 4, 4);
+        border-radius: 30px;
+        font-size: 35px;">GENRES</h1>
+        <div><br><br><br>
+            <div style="background-color: rgb(87, 111, 155);
+            border-width: 10px;
+            border-radius: 20px;
+            padding: 25px;
+            "><p1 style="margin-left: 2cm;
+                font-size: 38px;
+                border-radius: 15px;
+                padding: 5px;
+                background-color: rgb(108, 131, 175);
+                font-family: sans-serif;
+                font-weight: 200;
+                ">GETTOH Vibes.com, a site for your favorite GENRES</p1><br><br><p2 style="margin-left: 9cm;
+                font-size: 39px;
+                border-radius: 15px;
+                padding: 5px;
+                background-color: rgb(108, 131, 175);
+                font-family: sans-serif;
+                font-weight: 200;">and great entertainment</p2></div>
+            <div style="background-color: darkmagenta;
+            padding: 20px;
+            margin-top: 1CM;
+            margin-top: 3CM;
+            padding-bottom: 4CM;
+            border-radius: 20px;">
+                <P style="border-radius: 5px;
+                padding: 5px;
+                padding-left: 2cm;
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                font-size: 37px;
+                font-weight: 300;">HIPHOP</P>
+                <br><br><br>
+                <ul style="background-color: brown;
+                margin-left: 15cm;
+                border-radius: 10px;"><li><a href="hiphop.html">more</a></li></ul>
+            </div>
+            <div style="background-color: darkslategrey;
+            padding: 20px;
+            padding-bottom: 4CM;
+            border-radius: 20px;
+            margin-top: 3CM;">
+                <P style="border-radius: 5px;
+                padding: 5px;
+                padding-left: 2cm;
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                font-size: 37px;
+                font-weight: 300;">DANCEHALL</P>
+                <br><br><br>
+                <ul style="background-color: brown;
+                margin-left: 15cm;
+                border-radius: 10px;"><li><a href="dancehall.html">more</a></li></ul>
+            </div>
+</html>
